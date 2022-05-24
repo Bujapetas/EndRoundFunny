@@ -1,6 +1,6 @@
 ﻿namespace EndRoundFunny
 {
-    public class Class1
+    public class Main
     {
     }
 }

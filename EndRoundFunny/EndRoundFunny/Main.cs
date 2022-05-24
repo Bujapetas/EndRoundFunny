@@ -2,7 +2,7 @@
 
 namespace EndRoundFunny
 {
-    public class Main : Plugin<>
+    public class Main : Plugin<Config>
     {
     }
 }

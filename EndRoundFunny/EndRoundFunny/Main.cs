@@ -1,6 +1,8 @@
-﻿namespace EndRoundFunny
+﻿using Exiled.API.Features;
+
+namespace EndRoundFunny
 {
-    public class Main
+    public class Main : Plugin<>
     {
     }
 }

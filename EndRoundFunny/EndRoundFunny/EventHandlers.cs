@@ -19,7 +19,9 @@ namespace EndRoundFunny.Properties
                 case 3:
                     Manager.TpScp106Portal();
                     break;
-                
+                case 4:
+                    Manager.GateWithScp018();
+                    break;
             }
         }
 

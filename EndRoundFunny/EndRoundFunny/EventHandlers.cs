@@ -22,6 +22,9 @@ namespace EndRoundFunny.Properties
                 case 4:
                     Manager.GateWithScp018();
                     break;
+                case 5:
+                    Manager.Anarquia();
+                    break;
             }
         }
 
